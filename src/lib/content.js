@@ -24,7 +24,7 @@ const rehypePlugins = [
 ];
 
 const allowedPosters = ['codyde'];
-const publishedTags = ['Published'];
+const publishedTags = ['published'];
 let allBlogposts = [];
 // let etag = null // todo - implmement etag header
 ``;
